@@ -5,7 +5,7 @@ date: 2020-11-15
 categories: others
 ---
 
-## First blog
+## First blog-- I am a beginner
 
 
 [个人blog安装教程](https://www.cnblogs.com/wxyww/p/xiaoshujiang.html)
