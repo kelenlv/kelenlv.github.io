@@ -6,7 +6,11 @@ permalink: /about/
 
 ## Kelen Lv
 > Phd student in [PAMI lab](http://www.pami.sjtu.edu.cn/) in SJTU
-> My 
+
+#### research
+
+My research interest lies in distributed machine learning, federated learning and statistical learning. 
+
 
 #### news
   
