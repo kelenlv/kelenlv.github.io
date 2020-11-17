@@ -1,9 +1,8 @@
 ---
-title: Hello blog! 
-tags: others
-renderNumberedHeading: False
-grammar_cjkRuby: False
-category: others
+layout: post
+title: Hello blog!
+date: 2020-11-15
+categories: others
 ---
 
 ## First blog
