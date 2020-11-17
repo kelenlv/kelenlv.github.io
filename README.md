@@ -9,7 +9,7 @@ permalink: /about/
 
 ### research
 
-My research interest lies in **distributed machine learning**, **federated learning** and **statistical learning**. 
+My research interests lie in **distributed machine learning**, **federated learning** and **statistical learning**. 
 
 This homepage is under construction and will be updated irregularly.
 
