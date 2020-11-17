@@ -1,9 +1,8 @@
 ---
+layout: post
 title: Annual Personal Summary
-tags: others
-renderNumberedHeading: False
-grammar_cjkRuby: False
-category: others
+date: 2020-11-17
+categories: others
 ---
 
 ## reading list
