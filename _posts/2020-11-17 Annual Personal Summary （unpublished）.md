@@ -1,5 +1,5 @@
 ---
-title: 2020-11-17 Annual Personal Summary （unpublished）
+title: Annual Personal Summary （unpublished）
 tags: others
 renderNumberedHeading: False
 grammar_cjkRuby: true
