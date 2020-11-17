@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Homepage
 permalink: /about/
 ---
 
@@ -9,8 +9,9 @@ permalink: /about/
 
 #### research
 
-My research interest lies in distributed machine learning, federated learning and statistical learning. 
+My research interest lies in **distributed machine learning**, **federated learning** and **statistical learning**. 
 
+This homepage is under construction and will be updated irregularly.
 
 #### news
   
