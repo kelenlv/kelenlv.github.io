@@ -1,7 +1,7 @@
 ---
 title: 2020-11-15 Hello blog! 
 tags: others
-renderNumberedHeading: true
+renderNumberedHeading: False
 grammar_cjkRuby: False
 ---
 # First blog
