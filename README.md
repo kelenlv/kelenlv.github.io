@@ -16,7 +16,7 @@ This homepage is under construction and will be updated irregularly.
 ### news
   
 #### contacts
-- Email: Kelen_Lv@sjtu.edu.cn (recommended)
+- Email: <Kelen_Lv@sjtu.edu.cn> (recommended)
 - [github](https://github.com/kelenlv)
   
 ### Address
