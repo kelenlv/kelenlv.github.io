@@ -3,7 +3,7 @@ title: Hello blog!
 tags: others
 renderNumberedHeading: False
 grammar_cjkRuby: False
-
+category: others
 ---
 
 ## First blog
