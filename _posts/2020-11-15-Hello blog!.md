@@ -1,5 +1,5 @@
 ---
-title: 2020-11-15 Hello blog! 
+title: Hello blog! 
 tags: others
 renderNumberedHeading: False
 grammar_cjkRuby: False
