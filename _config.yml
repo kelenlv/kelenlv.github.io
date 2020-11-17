@@ -21,7 +21,7 @@
 title: KelenLv
 email: Kelen_Lv@sjtu.edu.cn
 description: >- # this means to ignore newlines until "baseurl:"
-  'When it is dark enough, we can see the stars.'
+  When it is dark enough, we can see the stars.
 # baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://kelenlv.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: kelenlv
