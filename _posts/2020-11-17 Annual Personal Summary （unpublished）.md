@@ -1,8 +1,8 @@
 ---
-title: Annual Personal Summary （unpublished）
+title: Annual Personal Summary
 tags: others
 renderNumberedHeading: False
-grammar_cjkRuby: true
+grammar_cjkRuby: False
 ---
 
 ## reading list
