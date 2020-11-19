@@ -36,6 +36,8 @@ plugins:
   - jekyll-feed
 category_dir: category/
 tag_dir: tag/
+
+google_analytics: UA-182986788-1
 # pages: 
   # - Articles/
   # - About/
