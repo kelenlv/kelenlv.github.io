@@ -28,7 +28,7 @@ categories: 周报
 	- multiround+ trim + median-geometric
 	 
 ![ByzantinePCA+malicious message](./images/1.png)
-
+![DPCA+malicious message](./images/2.png)
 
 
 
