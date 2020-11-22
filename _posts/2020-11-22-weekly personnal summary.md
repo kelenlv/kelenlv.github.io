@@ -10,17 +10,21 @@ categories: 周报
 - - [x] introduction of DGEP
 	- 增加了Lagrangian，同时改变公式顺序，使推导更完整
 	-  related work 上下文的逻辑性整理
-	-  
 ## Experiments and results
 #### SGCCA-求解unbalanced Proctustes问题
 已实现：
 - [x] EB-zero 
 -  [x] EB-eigen
+
 二者在SGCCA上的效果差不多，且EB算法的运行速度比之前的算法更快
-#### Byzantine PCA
+#### Byzantine PCA (tentative)
 - - [ ] DPCA-multiround
+	- multiround+simply averaging
 - - [ ] Byzantine PCA-multiround
-## Results
+	- multiround+ trim + median-geometric
+	 
+![ByzantinePCA+malicious message](./images/1.png)
+
 
 
 
