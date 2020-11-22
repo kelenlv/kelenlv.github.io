@@ -31,7 +31,7 @@ categories: 周报
 ![DPCA+malicious message](./images/2.png)
 
   > - 对比算法DPCA源于 sparse privacy-preserving DPCA框架去掉 sparse 和 privacy-preserving，其他multi-round distributed PCA还在寻找
-  > - 待完成：两种算法+blocked message
+  > - 待完成：两种算法+blocked message， 这种和原设定 partial active最接近，同时也是Byzantine-robust的一种特殊形式
   > - 待完成：理论分析
 
 
