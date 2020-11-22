@@ -6,10 +6,13 @@ categories: 周报
 ## Documents
 - - [x] proposal of experiments of Byzantine PCA
 - - [ ] unbalanced Procrustes
-	- uccessive Projection (SP) 未完成
+	- successive Projection (SP) 太复杂，还未完成
 - - [x] introduction of DGEP
 	- 增加了Lagrangian，同时改变公式顺序，使推导更完整
 	-  related work 上下文的逻辑性整理
+
+
+
 ## Experiments and results
 #### SGCCA-求解unbalanced Proctustes问题
 已实现：
@@ -30,7 +33,7 @@ categories: 周报
 
 ![DPCA+malicious message](./images/2.png)
 
-  > - 对比算法DPCA源于 sparse privacy-preserving DPCA框架去掉 sparse 和 privacy-preserving，其他multi-round distributed PCA还在寻找
+  > - 对比算法DPCA源于 sparse privacy-preserving DPCA框架去掉 sparse 和 privacy-preserving，显然他们没有**鲁棒性**；其他multi-round distributed PCA还在寻找
   > - 待完成：两种算法+blocked message， 这种和原设定 partial active最接近，同时也是Byzantine-robust的一种特殊形式
   > - 待完成：理论分析
 
@@ -38,11 +41,11 @@ categories: 周报
 
 
 ## Reading
-##### Distributed Robust Learning
-- 不同于传统Robust PCA的原问题，数据生成方式是 underlying signal + outliers，感觉依然采用PCA的解法
+##### 1. Distributed Robust Learning
+- 不同于**传统Robust PCA的原问题**，数据生成方式是 underlying signal + outliers，感觉依然采用PCA的解法
 - setting与Byzantine-robust不同
 
-##### Successive projection method for solving the unbalanced Procrustes problem
+##### 2. Successive projection method for solving the unbalanced Procrustes problem
 - unbalanced Proctustes problems
 	- nonconvex problem on Stiefel manifold
 	- **unbalanced**： min || A- BQ||_F , A,B不同维 ，相比于balanced的形式没有闭式解 
