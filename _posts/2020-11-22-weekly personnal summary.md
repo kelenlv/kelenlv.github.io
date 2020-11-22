@@ -11,7 +11,7 @@ categories: 周报
 	- 增加了Lagrangian，同时改变公式顺序，使推导更完整
 	-  related work 上下文的逻辑性整理
 	-  
-## Experiments
+## Experiments and results
 #### SGCCA-求解unbalanced Proctustes问题
 已实现：
 - [x] EB-zero 
