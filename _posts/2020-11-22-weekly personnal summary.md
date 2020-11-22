@@ -16,9 +16,8 @@ categories: 周报
 - [x] EB-zero 
 -  [x] EB-eigen
 
-二者在SGCCA上的效果差不多，且EB算法的运行速度比之前的算法更快
-
-从结果上看不出来是否落入局部最优解
+>- 二者在SGCCA上的效果差不多，且EB算法的运行速度比之前的算法更快
+>- 从结果上看不出来是否落入局部最优解
 
 #### Byzantine PCA (tentative)
 - - [x] DPCA-multiround
@@ -31,7 +30,9 @@ categories: 周报
 
 ![DPCA+malicious message](./images/2.png)
 
-- [ ]  未完成：两种算法+blocked message
+  > - 对比算法DPCA源于 sparse privacy-preserving DPCA框架去掉 sparse 和 privacy-preserving，其他multi-round distributed PCA还在寻找
+  > - 待完成：两种算法+blocked message
+  > - 待完成：理论分析
 
 
 
