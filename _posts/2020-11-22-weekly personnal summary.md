@@ -17,9 +17,11 @@ categories: 周报
 -  [x] EB-eigen
 
 二者在SGCCA上的效果差不多，且EB算法的运行速度比之前的算法更快
+
 #### Byzantine PCA (tentative)
 - - [ ] DPCA-multiround
 	- multiround+simply averaging
+	  
 - - [ ] Byzantine PCA-multiround
 	- multiround+ trim + median-geometric
 	 
