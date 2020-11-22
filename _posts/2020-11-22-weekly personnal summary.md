@@ -1,5 +1,5 @@
 ---
-title: 2020-11-17-weekly personnal summary
+title: weekly personnal summary
 tags: 周报
 categories: 周报
 ---
