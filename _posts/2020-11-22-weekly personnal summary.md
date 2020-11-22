@@ -21,16 +21,17 @@ categories: 周报
 从结果上看不出来是否落入局部最优解
 
 #### Byzantine PCA (tentative)
-- - [ ] DPCA-multiround
+- - [x] DPCA-multiround
 	- multiround+simply averaging
 	  
-- - [ ] Byzantine PCA-multiround
+- - [x] Byzantine PCA-multiround
 	- multiround+ trim + median-geometric
 	 
 ![ByzantinePCA+malicious message](./images/1.png)
+
 ![DPCA+malicious message](./images/2.png)
 
-
+- [ ]  未完成：两种算法+blocked message
 
 
 
