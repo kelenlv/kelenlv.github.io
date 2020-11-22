@@ -18,6 +18,8 @@ categories: 周报
 
 二者在SGCCA上的效果差不多，且EB算法的运行速度比之前的算法更快
 
+从结果上看不出来是否落入局部最优解
+
 #### Byzantine PCA (tentative)
 - - [ ] DPCA-multiround
 	- multiround+simply averaging
