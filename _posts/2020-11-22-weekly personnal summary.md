@@ -29,9 +29,9 @@ categories: 周报
 - - [x] Byzantine PCA-multiround
 	- multiround+ trim + median-geometric
 	 
-![ByzantinePCA+malicious message](./images/1.png)
+![ByzantinePCA+malicious message](/public/images/1.png)
 
-![DPCA+malicious message](./images/2.png)
+![DPCA+malicious message](/public/images/2.png)
 
   > - 对比算法DPCA源于 sparse privacy-preserving DPCA框架去掉 sparse 和 privacy-preserving，显然他们没有**鲁棒性**；其他multi-round distributed PCA还在寻找
   > - 待完成：两种算法+blocked message， 这种和原设定 partial active最接近，同时也是Byzantine-robust的一种特殊形式
