@@ -27,6 +27,9 @@ categories: 周报
 - 两种算法：
 	-  the power method （the dominant eigenvalue） 
 	-  the orthogonal iteration method  (dominant eigenvalues)
+- 两个应用：
+	- Orthogonal least square regression
+	- Unbalanced orthogonal procrustes problem
 
 |  | PM|OI |
 | :------:| :------: | :------: |
