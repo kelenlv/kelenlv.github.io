@@ -33,7 +33,7 @@ categories: 周报
 | QPSM | / | GPI (proposed) |
 | GEP | PM | OI |
 
-> <i class="fas fa-lightbulb"></i> 将GPI改为分布式 , $ M=UAV^T, W=UV^T $
+> <i class="fas fa-lightbulb"></i> 将GPI改为分布式 , $ M=UAV^T, W=UV^T $, 传vectors
 > ||one-shot|multir-ound|
 > |:---:| :------:| :------: |
 > |in the central|average(W_i)| average($ W_i^t $)|
