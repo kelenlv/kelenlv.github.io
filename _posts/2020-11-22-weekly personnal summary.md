@@ -4,10 +4,10 @@ tags: 周报
 categories: 周报
 ---
 ## Documents
-- - [x] proposal of experiments of Byzantine PCA
-- - [ ] unbalanced Procrustes
+ - [x] proposal of experiments of Byzantine PCA
+ - [ ] unbalanced Procrustes
 	- successive Projection (SP) 太复杂，还未完成
-- - [x] introduction of DGEP
+ - [x] introduction of DGEP
 	- 增加了Lagrangian，同时改变公式顺序，使推导更完整
 	-  related work 上下文的逻辑性整理
 
@@ -23,10 +23,10 @@ categories: 周报
 >- 从结果上看不出来是否落入局部最优解
 
 #### Byzantine PCA (tentative)
-- - [x] DPCA-multiround
+ - [x] DPCA-multiround
 	- multiround+simply averaging
 	  
-- - [x] Byzantine PCA-multiround
+ - [x] Byzantine PCA-multiround
 	- multiround+ trim + median-geometric
 	 
 ![ByzantinePCA+malicious message](/public/images/1.png)
