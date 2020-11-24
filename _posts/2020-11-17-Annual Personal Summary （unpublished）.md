@@ -5,7 +5,7 @@ date: 2020-11-17
 categories: others
 ---
 
-## 
+## Thoughts
 
 作者：任青
 链接：https://www.zhihu.com/question/419282956/answer/1505087049
