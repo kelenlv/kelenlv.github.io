@@ -15,14 +15,18 @@ categories: 周报
 		- 定义**估计值**：样本中含有恶意的vector，通过geomedian算出中值
 		> - 在我们的算法中，先通过trim去除所有恶意样本，认为geomedian得到的都是“真实值”，这条robustness性质暂时无用？
 - **Robustness property of our Alg.**
-	- 有直接的结论， see Theorem 3.1 in [2] and Theorem 1 in [1]
-	- $hat{W}$ 和 $W_trim$
-- ==**Analysis of geometric median estimator of the population W^*** #9C27B0==
+	- $hat{W}$ 和 $W_{trim}$的误差有直接的结论， see Theorem 3.1 in [2] and Theorem 1 in [1]
+- ==**Analysis of geometric median estimator of the population W^*** #9C27E2==
 	- - [x] $\hat{W}$ 和 $W_{trim}$
+		- robustness property 带有confidence，由 geometric median 带来的误差分析
 	- - [ ] $W_{trim}$ 和 $W_{beforetrim}$
-		- 定义 $W_{beforetrim}$： $W^*$中有些列有问题
-		- 定义真实值 $W^*$ : centered data算出来的W
-	- - [ ] $W_{beforetrim}$和 $W^*$
+		
+	- - [x] $W_{beforetrim}$和 $W^*$
+		- $C=XX^T=\sum_{i\in[N]}X_iX_i^T=\sum_{i\in[N]}C_i$ -> $W^*$
+			- 定义真实值 $W^*$ : centered data算出来的W
+		- $C_1=\sum_{i\in[N]\B}X_iX_i^T=\sum_{i\in[N]\B}C_i$ -> $W_{beforetrim}$
+		    - 定义 $W_{beforetrim}$： $W^*$中有些列有问题
+		- $W^*$ 和 $W_{beforetrim}$的误差有直接的结论（DK theorem)
 - **Convergence**: 
 	- rate （<i class="fas fa-question"></i>需要分析吗
 
