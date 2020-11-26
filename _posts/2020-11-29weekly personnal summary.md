@@ -16,17 +16,20 @@ categories: 周报
 		> - 在我们的算法中，先通过trim去除所有恶意样本，认为geomedian得到的都是“真实值”，这条robustness性质暂时无用？
 - **Robustness property of our Alg.**
 	- $hat{W}$ 和 $W_{trim}$的误差有直接的结论， see Theorem 3.1 in [2] and Theorem 1 in [1]
+	>1. trim后再用geomedian没有必要？可以直接取平均(to reduce the variance in the estimation)。（这与之前的实验效果表现一致）
+	>2. geomedian如果要用，不需要trim?
+	> -  $W^* , \hat{W} $
 - ==**Analysis of geometric median estimator of the population W^*** #9C27E2==
 	- - [x] $\hat{W}$ 和 $W_{trim}$
 		- robustness property 带有confidence，由 geometric median 带来的误差分析
 	- - [ ] $W_{trim}$ 和 $W_{beforetrim}$
-		
-	- - [x] $W_{beforetrim}$和 $W^*$
+		- 差别在于排序
+	- - [x] $W_{beforetrim}$和 $W^* $
 		- $C=XX^T=\sum_{i\in[N]}X_iX_i^T=\sum_{i\in[N]}C_i$ -> $W^*$
-			- 定义真实值 $W^*$ : centered data算出来的W
+			- 定义真实值 $W^* $ : centered data算出来的W
 		- $C_1=\sum_{i\in[N]\B}X_iX_i^T=\sum_{i\in[N]\B}C_i$ -> $W_{beforetrim}$
-		    - 定义 $W_{beforetrim}$： $W^*$中有些列有问题
-		- $W^*$ 和 $W_{beforetrim}$的误差有直接的结论（DK theorem)
+		    - 定义 $W_{beforetrim}$： $W^* $中有些列有问题
+		- $W^* $ 和 $W_{beforetrim}$的误差有直接的结论（DK theorem)
 - **Convergence**: 
 	- rate （<i class="fas fa-question"></i>需要分析吗
 
@@ -77,3 +80,7 @@ categories: 周报
 	- analysis: 
 		- coordinate-wise median estimator of the population gradients
 		- convergence of proposed algorithm
+
+
+严格来说，我们一直做的都是类似于分布式机器学习的范围，主要考虑的是在基础机器学习算法（如PCA、CCA等）上设计分布式算法，其中在分布式PCA上已经有许多工作，而且基本上很多都是统计数学那边的人在做，我们也只是从那边拿一些结论过来加上自己的一点推导作为创新点。其中HF主要做的是kernel PCA的分布式算法，因为在sample空间的都被做了只能从kernel空间考虑。
+和HF工作的不同之处在于，我一直想考虑一些应用场景类的东西，比如，通讯中断或者被攻击导致的传递信息的鲁棒性（进行中），带有隐私保护的信息传递，等。
