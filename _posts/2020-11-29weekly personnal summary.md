@@ -15,6 +15,7 @@ categories: 周报
 		- 定义**估计值**：样本中含有恶意的vector，通过geomedian算出中值
 		> - 在我们的算法中，先通过trim去除所有恶意样本，认为geomedian得到的都是“真实值”，这条robustness性质暂时无用？
 - **Robustness property of our Alg.**
+	- 有直接的结论， see Theorem 3.1 in [2] and Theorem 1 in [1]
 - **Analysis of geometric median estimator of the population W**
 - **Convergence**: 
 	- rate （<i class="fas fa-question"></i>需要分析吗
