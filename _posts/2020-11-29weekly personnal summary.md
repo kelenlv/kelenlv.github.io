@@ -16,13 +16,19 @@ categories: 周报
 		> - 在我们的算法中，先通过trim去除所有恶意样本，认为geomedian得到的都是“真实值”，这条robustness性质暂时无用？
 - **Robustness property of our Alg.**
 	- 有直接的结论， see Theorem 3.1 in [2] and Theorem 1 in [1]
-- **Analysis of geometric median estimator of the population W**
+	- $W_hat$ 和 $W_trim$
+- ==**Analysis of geometric median estimator of the population W** #9C27B0==
+	- - [x] $\hat{W}$ 和 $W_{trim}$
+	- $W_{trim}$ 和 $W_{beforetrim}$
+		- 定义 $W_{beforetrim}$
+		- 定义真实值 $W^*$
 - **Convergence**: 
 	- rate （<i class="fas fa-question"></i>需要分析吗
 
 
 参考文献：
 [1] Distributed Robust Learning
+
 [2] Geometric median and robust estimation in banach spaces
 ## Experiments and results
 
