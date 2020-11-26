@@ -8,14 +8,21 @@ categories: 周报
 
 ## Theories
 
-- Geometric-median：针对向量，解一个凸优化问题，用一个估计所有向量
+- **Geometric-median**：针对向量，解一个凸优化问题，用一个估计所有向量
 	- breakdown point = 0.5
-	- Robutness of the Geometric Median (Lemma1 in DRL)： 给出了geomedian 估计的值和真实值的差距
+	- Robutness of the Geometric Median (Lemma1 in [1])： 给出了geomedian 估计的值和真实值的差距
 		- 定义**真实值**：定理中未定义，但可代表所有“干净样本”通过geomedian算出来的中值
 		- 定义**估计值**：样本中含有恶意的vector，通过geomedian算出中值
 		> - 在我们的算法中，先通过trim去除所有恶意样本，认为geomedian得到的都是“真实值”，这条robustness性质暂时无用？
-	  
+- **Robustness property of our Alg.**
+- **Analysis of geometric median estimator of the population W**
+- **Convergence**: 
+	- rate （<i class="fas fa-question"></i>需要分析吗
 
+
+参考文献：
+[1] Distributed Robust Learning
+[2] Geometric median and robust estimation in banach spaces
 ## Experiments and results
 
 
