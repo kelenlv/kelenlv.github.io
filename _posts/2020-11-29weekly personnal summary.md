@@ -17,18 +17,18 @@ categories: 周报
 - **Robustness property of our Alg.**
 	- 有直接的结论， see Theorem 3.1 in [2] and Theorem 1 in [1]
 	- $W_hat$ 和 $W_trim$
-- ==**Analysis of geometric median estimator of the population W** #9C27B0==
+- ==**Analysis of geometric median estimator of the population W^*** #9C27B0==
 	- - [x] $\hat{W}$ 和 $W_{trim}$
-	- $W_{trim}$ 和 $W_{beforetrim}$
-		- 定义 $W_{beforetrim}$
-		- 定义真实值 $W^*$
+	- - [ ] $W_{trim}$ 和 $W_{beforetrim}$
+		- 定义 $W_{beforetrim}$： $W^*$中有些列有问题
+		- 定义真实值 $W^*$ : centered data算出来的W
+	- - [ ] $W_{beforetrim}$和 $W^*$
 - **Convergence**: 
 	- rate （<i class="fas fa-question"></i>需要分析吗
 
 
 参考文献：
 [1] Distributed Robust Learning
-
 [2] Geometric median and robust estimation in banach spaces
 ## Experiments and results
 
