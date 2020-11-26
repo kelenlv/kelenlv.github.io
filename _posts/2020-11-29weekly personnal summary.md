@@ -41,3 +41,12 @@ categories: 周报
 > |:---:| :------:| :------: |
 > |in the central|average(W_i)| average($ W_i^t $)|
 > |error analysis| | |
+
+##### 3.Byzantine-Robust Distributed Learning: Towards Optimal Statistical Rates
+- coordinate-wise 操作针对向量
+	 > - 不同之处：文中的coordinate-wise median/mean 适合梯度，<i class="fas fa-question"></i>无法translated to eigenvector这边； geometric median适合向量（eigenvector）
+- median-based GD
+	- assumptions: bounded variance, skewness of gradient, smoothness of f and F
+	- analysis: 
+		- coordinate-wise median estimator of the population gradients
+		- convergence of proposed algorithm
