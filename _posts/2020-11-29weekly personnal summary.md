@@ -7,6 +7,11 @@ categories: 周报
 ## Documents
 
 ## Theories
+- outlier
+- Geometric-median：针对向量，解一个凸优化问题，用一个估计所有向量
+	- breakdown point = 0.5
+	- Robutness of the Geometric Median : 针对outlier
+	  
 
 ## Experiments and results
 
