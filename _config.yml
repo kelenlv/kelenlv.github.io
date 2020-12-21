@@ -24,6 +24,11 @@ description: >- # this means to ignore newlines until "baseurl:"
   When it is dark enough, we can see the stars.
 # baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://kelenlv.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+default: 
+  scope:
+    path: "public/images"
+  values:
+    image: true
 github_username: kelenlv
 highlighter: rouge
 svg:
@@ -33,7 +38,9 @@ svg:
 highlighter-theme: monokai
 date_format: "%Y-%M-%D"
 plugins:
-  - jekyll-feed
+  # - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
 category_dir: category/
 tag_dir: tag/
 
