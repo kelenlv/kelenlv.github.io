@@ -29,6 +29,12 @@ default:
     path: "public/images"
   values:
     image: true
+default: 
+  scope:
+    path: "public/attachments"
+  values:
+    attachment: true
+
 github_username: kelenlv
 highlighter: rouge
 svg:
