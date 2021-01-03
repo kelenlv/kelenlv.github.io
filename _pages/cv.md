@@ -11,21 +11,17 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Automation, Shanghai Jiao Tong University, 2018-2023(expected)
+* B.E. in Communication Engineering, Wuhan University, 2014-2018
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* China Academy of Electronics and Information Technology, Bejing, China
+  * Research Intern, Sept. 2017-Dec. 2017
+  * Implemented the KCF algorithm in C++ to track humans from cameras with OpenCV 
+  * Proposed an algorithm in dense crowd counting and  alert 
+  * Supervisor: Yifeng Liu
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======

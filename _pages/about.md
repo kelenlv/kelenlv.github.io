@@ -18,10 +18,8 @@ My research interests lie in **distributed machine learning**, **federated learn
 This homepage is under construction and will be updated irregularly.
 
 ### News
-  
-### Contacts
-- Email: <Kelen_Lv@sjtu.edu.cn> (recommended)
-- [github](https://github.com/kelenlv)
+There should be something here in the future : )  
+
   
 ### Address
  Room 227, Institute of Image Processsing and Pattern Recognition
