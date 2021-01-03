@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Automation, Shanghai Jiao Tong University, 2018-2023(expected)
+* Ph.D in Automation, Shanghai Jiao Tong University, 2018-2023 (expected)
 * B.E. in Communication Engineering, Wuhan University, 2014-2018
 
 Work experience
