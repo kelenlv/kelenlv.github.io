@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Kelen_Lv"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Kelen Lv"
+description              : &description "Ph.D. student, pami lab, Automation, SJTU"
 url                      : https://kelenlv.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kelenlv/kelenlv.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "KelenLv"
   avatar           : "profile.jpg"
-  bio              : "normal people"
+  bio              : "Ph.D. student, pami lab, Automation, SJTU"
   location         : "Shanghai, China"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -210,14 +210,14 @@ defaults:
       layout: single
       author_profile: true
   # _teaching
-  # - scope:
-  #     path: ""
-  #     type: teaching
-  #   values:
-  #     layout: single
-  #     author_profile: true
-  #     share: true
-  #     comments: true
+  - scope:
+      path: ""
+      type: teaching
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _publications
   - scope:
       path: ""
