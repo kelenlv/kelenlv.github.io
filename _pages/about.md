@@ -21,15 +21,15 @@ Education
 
 Publication
 -----
-+ **Kexin Lv**, Fan He, Xiaolin Huang\*\*, Jie Yang\*\*. Consensus-Based Distributed Algorithm for GEP. 2021.
++ **Kexin Lv**, Fan He, Xiaolin Huang\*, Jie Yang\*. Consensus-Based Distributed Algorithm for GEP. 2021.
 
-+ Fan He, **Kexin Lv**, Xiaolin Huang\*\*, "One-Shot Distributed Algorithm for PCA With RBF Kernels", in IEEE Signal Processing Letters, vol. 28, pp. 1465-1469, 2021, doi: 10.1109/LSP.2021.3095017. [[LINK](https://ieeexplore.ieee.org/document/9476980)]
++ Fan He, **Kexin Lv**, Jie Yang, Xiaolin Huang\*, "One-Shot Distributed Algorithm for PCA With RBF Kernels", in IEEE Signal Processing Letters, vol. 28, pp. 1465-1469, 2021, doi: 10.1109/LSP.2021.3095017. [[LINK](https://ieeexplore.ieee.org/document/9476980)]
 
-+ **Kexin Lv**, Fan He, Xiaolin Huang\*\*, Jie Yang\*\*, Liming Chen. One-shot Distributed Algorithm for Generalized Eigenvalue Problem. Arxiv preprint, 2020. [[LINK](https://arxiv.org/abs/2010.11625)]
++ **Kexin Lv**, Fan He, Xiaolin Huang\*, Jie Yang\*, Liming Chen. One-shot Distributed Algorithm for Generalized Eigenvalue Problem. Arxiv preprint, 2020. [[LINK](https://arxiv.org/abs/2010.11625)]
 
-+ Jia Cai, **Kexin Lv**, Junyi Huo, Xiaolin Huang\*\*, Jie Yang. Sparse Generalized Canonical Correlation Analysis: Distributed Alternating Iteration based Approach. Arxiv preprint, 2020. [[LINK](https://arxiv.org/abs/2004.10981)]
++ Jia Cai, **Kexin Lv**, Junyi Huo, Xiaolin Huang\*, Jie Yang. Sparse Generalized Canonical Correlation Analysis: Distributed Alternating Iteration based Approach. Arxiv preprint, 2020. [[LINK](https://arxiv.org/abs/2004.10981)]
 
-\*\* indicates the corresponding author.
+\* indicates the corresponding author.
 
 
 
