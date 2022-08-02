@@ -21,6 +21,10 @@ Education
 
 Publication
 -----
+
++ Runze Yang, Yingying Liu, **Kexin Lv**, Yizhang Huang, Mingxia Sun, Yi Wu, Zhenhua Yue, Pengjia Cao, Jie Yang\*. Respiratory sound classification byapplying the deep neural network with the blocking variables. Under review, 2022. [[LINK](http://dx.doi.org/10.2139/ssrn.4098695)]
+
+
 + **Kexin Lv**, Fan He, Xiaolin Huang\*, Jie Yang\*. Consensus-Based Distributed Algorithm for GEP. Under review, 2022.
 
 + **Kexin Lv**, Zheng Sun, Fan He, Xiaolin Huang\*, Jie Yang\*. One-Shot Distributed Generalized Eigenvalue Problem (DGEP): Concept, Algorithm and Experiments, in Applied Sciences, 12, no. 10: 5128, 2022, doi: 10.3390/app12105128. [[LINK](https://www.mdpi.com/2076-3417/12/10/5128)]
